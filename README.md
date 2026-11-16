@@ -25,3 +25,8 @@ Para garantizar un rendimiento óptimo y un código limpio, ECOTRACK se apoya en
  * Sostenibilidad Medible: Generación de reportes automáticos que cuantifican la reducción de la huella de carbono y el volumen total de residuos rescatados de vertederos.
 
 
+INTEGRANTES: JEYSON ELIAS HERNADEZ ARGUETA
+DIEGO JOSUE ORELLANA MESA 
+OSCAR DAVID BONILLA CHEVEZ
+MIGUEL AZAEL MIRANDA GOMEZ
+BAYRON ENRIQUE LUNA MARTINEZ 
