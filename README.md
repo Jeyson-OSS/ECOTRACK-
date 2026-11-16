@@ -1,2 +1,2 @@
 # ECOTRACK-
-Sistema Inteligente de Gestión de Residuos y Reciclaje desarrollado en Python.
+Sistema Inteligente de Gestión de Residuos y Reciclaje desarrollado en Python;
